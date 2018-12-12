@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+	margin: 0 !important;
+    padding: 0 !important;
+	cursor: crosshair;
+}
+canvas {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
